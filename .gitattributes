@@ -1,0 +1,6 @@
+t4_exoplanets_ml/exoTrain.csv filter=lfs diff=lfs merge=lfs -text
+t3_exoplanets_ml/exoTrain.csv filter=lfs diff=lfs merge=lfs -text
+t4_exoplanets_ml/exoTest.csv filter=lfs diff=lfs merge=lfs -text
+t3_exoplanets_ml/exoTest.csv filter=lfs diff=lfs merge=lfs -text
+t1_lifesim/ppop_catalog.txt filter=lfs diff=lfs merge=lfs -text
+t2_naivebayes/PS_2024.05.02_07.53.02.csv filter=lfs diff=lfs merge=lfs -text
